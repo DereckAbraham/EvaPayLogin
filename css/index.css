@@ -1,0 +1,42 @@
+.login{
+    width: 42.8rem;
+    height: 92.6rem;
+    background-color: whitesmoke;
+    margin: auto;
+}
+
+.log{
+    width: 15.5rem;
+    height: 10.7rem;
+    margin-top: 17.2rem;
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+}
+
+.sign-in{
+    background-color: black;
+    color: white;
+
+    border-radius: 10rem;
+    width: 37.4rem;
+    height: 5.6rem;
+    margin-top: 43.6rem;
+    text-align: center;
+}
+
+.sign-in , p{
+    font-size: 2.5rem;
+}
+
+.create-account{
+    border-color: black;
+    border-bottom: solid black;
+
+    border-radius: 10rem;
+    width: 37.4rem;
+    height: 5.6rem;
+    margin-top: 43.6rem;
+    text-align: center;
+
+}
+
